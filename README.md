@@ -12,8 +12,13 @@ I'm a chemical engineering by undergrad and (partially) masters' training, but l
 4. Effect of temperature and driving conditions on gasoline exhaust VOC emissions
 5. Real-workd emissions from diesel-powered construction equipment using PEMS and OBD data.
 
+# battery research
+
 My experiences in the battery domain include:
 
-6.
+6. Single particle modeling to compare surface layer concentrations in pseudocapacitive and bulk LMO cathodes
+7. Usage of IVT data from dataloggers to identify degradation mechanisms in lead-acid batteries
+8. COMSOL modeling to identify the optimum negative current collector geometry in molten calcium batteries
+9. Equivalent circuit optimization for molten calcium cells
 
 The raw data is unfortunately the property of the organizations where I did these pieces of work, hence unfortunately it's not possible to share the scripts or raw data publicly, but if you want access to these and the associated papers, I'm happy to share privately.

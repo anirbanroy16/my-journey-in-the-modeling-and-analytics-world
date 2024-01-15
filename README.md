@@ -12,4 +12,8 @@ I'm a chemical engineering by undergrad and (partially) masters' training, but l
 4. Effect of temperature and driving conditions on gasoline exhaust VOC emissions
 5. Real-workd emissions from diesel-powered construction equipment using PEMS and OBD data.
 
+My experiences in the battery domain include:
+
+6.
+
 The raw data is unfortunately the property of the organizations where I did these pieces of work, hence unfortunately it's not possible to share the scripts or raw data publicly, but if you want access to these and the associated papers, I'm happy to share privately.

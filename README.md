@@ -10,7 +10,7 @@ I'm a chemical engineering by undergrad and (partially) masters' training, but l
     production and processing activities in the Marcellus Shale, and evaluating these emissions in a chemical transport model (transport-phenomena based air quality 
     modeling)
 4. Effect of temperature and driving conditions on gasoline exhaust VOC emissions
-5. Real-workd emissions from diesel-powered construction equipment using PEMS and OBD data.
+5. Real-world emissions from diesel-powered construction equipment using PEMS and OBD data.
 
 # battery research
 
